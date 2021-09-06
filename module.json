@@ -1,0 +1,119 @@
+{   
+   "name": "ZacsData",   
+   "title": "Zac's Data",   
+   "description": "Sharing data across worlds",   
+   "author": "ZacM",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.7.0",
+   "compatibleCoreVersion":"0.8.9",
+"url": "https://github.com/Zindinok/test2",
+   "manifest": "https://github.com/Zindinok/test2/releases/download/1.0.0/module.json",
+   "download": "https://github.com/Zindinok/test2/releases/download/1.0.0/ZacsData.zip",
+"packs": [
+{
+      "name": "automatic-bonus-progression",
+      "label": "Automatic Bonus Progression",
+      "path": "packs/automatic-bonus-progression.db",
+      "entity": "Item",
+      "module": "ZacsData"
+    },
+    {
+      "name": "classes3pp",
+      "label": "Classes_3pp",
+      "path": "packs/classes3pp.db",
+      "entity": "Item",
+      "module": "ZacsData"
+    },
+  {
+      "name": "classes_house_rules",
+      "label": "Classes (House Rules)",
+      "path": "packs/classes-house-rules.db",
+      "entity": "Item",
+      "module": "ZacsData"
+    },
+    {
+      "name": "class-features3pp",
+      "label": "Class Features_3pp",
+      "path": "packs/class-features3pp.db",
+      "entity": "Item",
+      "module": "ZacsData"
+    },
+    {
+      "name": "feats3pp",
+      "label": "Feats_3pp",
+      "path": "packs/feats3pp.db",
+      "entity": "Item",
+      "module": "ZacsData"
+    },
+{
+      "name": "featsaltered",
+      "label": "Feats_Altered",
+      "path": "packs/featsaltered.db",
+      "entity": "Item",
+      "module": "ZacsData"
+    },
+{
+      "name": "game-environment-macros",
+      "label": "Game Environment Macros",
+      "path": "packs/game-environment-macros.db",
+      "entity": "Macro",
+      "module": "ZacsData"
+    },
+{
+      "name": "game-environment-triggers",
+      "label": "Game Environment Triggers",
+      "path": "packs/game-environment-triggers.db",
+      "entity": "JournalEntry",
+      "module": "ZacsData"
+    },
+{
+      "name": "game-environment-ui",
+      "label": "Game Environment UI",
+      "path": "packs/game-environment-ui.db",
+      "entity": "Scene",
+      "module": "ZacsData"
+    },
+{
+      "name": "items3pp",
+      "label": "Items_3pp",
+      "path": "packs/items3pp.db",
+      "entity": "Item",
+      "module": "ZacsData"
+    },
+{
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros.db",
+      "entity": "Macro",
+      "module": "ZacsData"
+    },
+{
+      "name": "races3pp",
+      "label": "Races_3pp",
+      "path": "packs/races3pp.db",
+      "entity": "Item",
+      "module": "ZacsData"
+    },
+{
+      "name": "shopsarmor",
+      "label": "Shops_Armor",
+      "path": "packs/shopsarmor.db",
+      "entity": "RollTable",
+      "module": "ZacsData"
+    },
+{
+      "name": "shopsweapons",
+      "label": "Shops_Weapons",
+      "path": "packs/shopsweapons.db",
+      "entity": "RollTable",
+      "module": "ZacsData"
+    },
+{
+      "name": "theater-of-the-mind",
+      "label": "Theater of the Mind",
+      "path": "packs/theater-of-the-mind.db",
+      "entity": "Scene",
+      "module": "ZacsData"
+    }
+  ]
+ }
